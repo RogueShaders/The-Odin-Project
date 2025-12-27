@@ -1,0 +1,16 @@
+.red{
+    background-color: tomato;
+}
+#blue{
+    color: blue;
+}
+#green{
+    background-color: rgb(47, 255, 82);
+}
+.bold{
+    font-weight: bolder;
+}
+
+.bigger{
+    font-size: x-large;
+}
